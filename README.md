@@ -1,0 +1,7 @@
+- Character sheet should track resources, stats, buffs
+- Character sheet should track all the shit you can do
+- Users should sign into a session and host a session - DM
+- Users should be able to join a session as a player - player
+- Need to be able to roll dice
+- Character sheet needs to be easily readable
+- Needs to automatically track hit points
